@@ -5,4 +5,4 @@ pip install -r requirements.txt
 
 You can create such a CV using this code.
 
-![cv](http://piccy.info/view3/14161903/102e510aa2b2a9d77c4596b31be373d7/)
+![cv](http://i.piccy.info/i9/404d0962d954cab5bb0b3bef74aed4ba/1610839390/107225/1413749/CV.png)
